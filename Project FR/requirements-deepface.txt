@@ -1,0 +1,3 @@
+
+deepface>=0.0.93
+tensorflow>=2.13
